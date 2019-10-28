@@ -3,13 +3,19 @@
 
 <head>
     <meta charset="UTF-8">
+
+    <!--Bootstrap Meta "Viewport" HTML-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
     <title>Sarah's Portfolio: Home</title>
 
-    <link rel="stylesheet" href="assets/css/reset.css">
+    <!-- Boostrap Stylesheet -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- Local Portfolio Stylesheet-->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     
 </head>
-
 
 
 <body>
@@ -18,7 +24,7 @@
         <div id="myname"><h1>Sarah Dillard</h1></div>
                     
         <nav>
-            <a href="index.html">About</a> | <a href="portfolio.html">Portfolio</a> | <a href="contact.html">Contact</a>
+                <a href="index.html" class="text-decoration-none">About</a> | <a href="portfolio.html" class="text-decoration-none">Portfolio</a> | <a href="contact.html" class="text-decoration-none">Contact</a>
         </nav>
                     
     </header>
@@ -26,27 +32,55 @@
     <div class="container">
             
         <div class="wrapper">
-            
-            <div class="content">
-            
-                <section id="sectionheading">
-                <h1>About Me</h1>
-                </section>
-
-                <img id="headshot" src="assets/images/scdprof1.jpg" alt="Sarah Dillard Photo">
-
-                <p>I am developer, business analyst and geekdom enthusiast seeking opportunities for new projects!
-                </p>
-                <br>
-                <p>I specialize in the user experience/UX and UI/design to meet business needs, and provide production and development support and project management services as a contractor.
-                </p><br>
-                <p>In addition to my professional concentrations, my portfolio includes applications pertaining to my personal interests, such as videogames (ex/<a href="https://www.playstation.com/en-us/games/detroit-become-human-ps4" target="_blank">Detroit: Become Human</a> for PS4), sci fi content (ex/<a href="https://www.syfy.com/theexpanse/about" target="_blank">The Expanse</a>),  comic books and occasional participation in <a href="https://www.c2e2.com/" target="_blank">comic conventions</a>. I also care for over 20 plants year-around, and maintain two "planted" aquariums, one of which includes my 5 year old fancy goldfish!</p><br>
-                <p> <a href="contact.html">Contact me</a> any time for interest in my <a href="portfolio.html">existing projects</a> or inquiries regarding new initiatives.</p><br>
                 
-            </div>
-    
-        </div>
-    </div>
+            <!-- Start row 1 of 2 -->
+            <div class="row"> 
+                    
+                <!-- Start column 1 -->
+                <div class="col-md-8">
+                        
+                    <!-- Border applied to section heading -->
+                    <div class="sectionheading">
+                        <h1>About Me</h1>
+                    </div>
+
+                    <!-- Start Sub-Row -->
+                    <div class="row">
+                            
+                    <!-- Start Sub Column -->
+
+                        <div class="col-md-3">
+                                <img src="assets/images/scdprof1.jpg" alt="Sarah Dillard Photo" class="img-thumbnail" width="100px" height="150">
+                            </div>
+
+                            <div class="col-md-9">
+                                
+                                <p>I am developer, business analyst and geekdom enthusiast seeking opportunities for new projects!
+                                </p>
+                                <br>
+                                <p>I specialize in the user experience/UX and UI/design to meet business needs, and provide production and development support and project management services as a contractor.
+                                </p>
+                                <br>
+                                <p>In addition to my professional concentrations, my portfolio includes applications pertaining to my personal interests, such as videogames (ex/<a href="https://www.playstation.com/en-us/games/detroit-become-human-ps4" target="_blank">Detroit: Become Human</a> for PS4), sci fi content (ex/<a href="https://www.syfy.com/theexpanse/about" target="_blank">The Expanse</a>),  comic books and occasional participation in <a href="https://www.c2e2.com/" target="_blank">comic conventions</a>. I also care for over 20 plants year-around, and maintain two "planted" aquariums, one of which includes my 5 year old fancy goldfish!</p><br>
+                                
+                                <p> <a href="contact.html">Contact me</a> any time for interest in my <a href="portfolio.html">existing projects</a> or inquiries regarding new initiatives.
+                                </p>
+                                <br>
+                            </div>
+                        </div>
+                    </div> 
+
+                <!-- Ends Row 1 -->
+                </div> 
+
+            <!-- Ends Content -->
+            </div> 
+          
+        <!-- Ends Wrapper -->
+        </div> 
+
+    <!-- Ends Container -->
+    </div> 
 
     <footer class="footer">Copyright&copy;</footer>
 </body>
