@@ -7,10 +7,31 @@ body {
     flex-direction: column;
 }
 
+.navbar {
+    padding: 0;
+    flex-wrap: nowrap;
+}
+
 .navbar-brand {
     background-color:#66b2b2;
-    color: white;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 15px;
 }
+
+.navbar-container {
+    padding: 0;
+    flex-wrap: nowrap;
+    width: 480px;
+}
+
+.nav-container {
+    padding: 0;
+    flex-wrap: nowrap;
+    width: 480px;
+}
+
 .wrapper {
     max-width: 960px;
     min-height: 100%;
@@ -20,14 +41,24 @@ body {
     border: 1px solid #dddddd;
     padding: 20px;
     background-color: #ffffff;
+    flex: 1 0 auto;
 }
 
 .sectionheading {
     border-bottom: 3px solid #cccccc;
-    margin-bottom: 20px;
+    margin: 20px;
     padding-bottom: 10px;
     color: #66b2b2;
 }
+
+#headshot {
+    margin-right: 10px;
+}
+
+p {
+    padding-left: 15px;
+}
+
 
 .activitytitle {
     color:#ffffff;
@@ -63,4 +94,6 @@ h1 {
     flex-shrink: 0;
     margin-top: auto;
 }
+
+
 
