@@ -7,72 +7,33 @@ a:hover {
     color: #cccccc;
 }
 
-
-.navbar {
-    padding: 0;
-    overflow: auto;
-}
-
 .navbar-brand {
     background-color:#66b2b2;
     color: #ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
-    padding: 15px;
 }
 
-
 .wrapper {
-    max-width: 1024px;
-    min-height: 100%;
-    margin: auto;
-    margin-top: 20px;
-    margin-bottom: 40px;
     border: 1px solid #dddddd;
-    padding: 20px;
     background-color: #ffffff;
-    flex: 1 0 auto;
 }
 
 .sectionheading {
     border-bottom: 3px solid #cccccc;
-    margin: 20px;
-    padding-bottom: 10px;
     color: #66b2b2;
 }
-
-#headshot {
-    margin-right: 10px;
-}
-
-p {
-    padding-left: 15px;
-}
-
 
 .activitytitle {
     color:#ffffff;
     background-color: #4aaaa5;
-    text-align: center;
 }
 
 .activitytitle2 {
     color:#ffffff;
     background-color: blue;
-    text-align: center;
 }
 
-.activityimage {
-    width: 250px;
-    height: 180px;
-    border: 4px solid #eeeeee;
-    margin: 5px; 
-}
-
-.form-group {
-    padding-left: 20px;
-    padding-right: 20px; 
-}
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -81,12 +42,8 @@ h1 {
 }
 
 .footer {
-    clear: both;
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
-    text-align: center;
-    height: 40px;
-    flex-shrink: 0;
-    margin-top: auto;
+
 }
 
