@@ -22,14 +22,14 @@ a:hover {
     color: #66b2b2;
 }
 
-.activitytitle {
+.card-title {
     color:#ffffff;
     background-color: #4aaaa5;
 }
 
-.activitytitle2 {
+.card-text {
     color:#ffffff;
-    background-color: blue;
+    background-color: #4aaaa5;
 }
 
 
