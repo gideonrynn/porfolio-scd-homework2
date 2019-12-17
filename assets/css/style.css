@@ -22,9 +22,17 @@ a:hover {
     color: #66b2b2;
 }
 
+.card {
+    opacity: .8;
+}
+.card:hover {
+    opacity: 1;
+    border: grey 0 2px;
+}
+
 .card-text {
     color:#ffffff;
-    background-color: #4aaaa5;
+    background-color: #195DA3;
 }
 
 

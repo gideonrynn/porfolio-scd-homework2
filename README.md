@@ -25,6 +25,21 @@ seigiha.png background: https://subtlepatterns.com/
  bcsp.png: https://www.vice.com/en_us/article/panvnm/meet-the-black-anime-cosplayers-blowing-up-on-instagram-1
 shark.jpg: https://www.express.co.uk/news/world/1192319/shark-news-latest-great-white-share-sea-hawaii-updates-bite-marks
 
+password.jpg
+https://www.lifehacker.com.au/2017/08/how-to-create-a-strong-password/
+
+fifth element.jpg
+https://www.bustle.com/articles/92841-9-leeloo-from-the-fifth-element-inspired-fashions-for-all-futuristic-sci-fi-lovers
+
+weather.jpg
+https://line25.com/articles/free-weather-icon-sets
+
+plan.jpg
+https://www.callcentrehelper.com/resource-planning-need-to-know-145208.htm
+
+bestdayout.jpg
+https://www.istockphoto.com/illustrations/family-fun
+
 ## License
 
     GNU GENERAL PUBLIC LICENSE
