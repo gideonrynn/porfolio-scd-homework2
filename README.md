@@ -16,6 +16,8 @@ With GitHub account, clone or download repository using link.
 
 For the purpose of showcasing developer projects for S. Dillard (2019).
 
+Profile contains index.html, portfolio.html, and contact.html. Portfolio contains built in cards within columns that can be duplicated to add more project images and links.
+
 
 ## Credits
 
@@ -39,6 +41,9 @@ https://www.callcentrehelper.com/resource-planning-need-to-know-145208.htm
 
 bestdayout.jpg
 https://www.istockphoto.com/illustrations/family-fun
+
+comingsoon.jpg
+https://www.sbswpodcast.com/coming-soon-1/
 
 ## License
 

@@ -1,6 +1,6 @@
 
 a, a:visited {
-    color: #66b2b2;
+    color: #9ebad7;
 }
 
 a:hover {
@@ -8,7 +8,7 @@ a:hover {
 }
 
 .navbar-brand {
-    background-color:#66b2b2;
+    background-color:#467db5;
     color: #ffffff;
 }
 
@@ -19,15 +19,15 @@ a:hover {
 
 .sectionheading {
     border-bottom: 3px solid #cccccc;
-    color: #66b2b2;
+    color: #759dc7;
 }
 
 .card {
     opacity: .8;
 }
+
 .card:hover {
     opacity: 1;
-    border: grey 0 2px;
 }
 
 .card-text {
@@ -43,7 +43,7 @@ h1 {
 }
 
 .footer {
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #467db5;
     background-color: #666666;
 
 }
