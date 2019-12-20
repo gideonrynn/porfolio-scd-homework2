@@ -1,9 +1,7 @@
-html {
-    position: relative;
-}
 
 .container {
-    display: flexbox
+    display: flex;
+    margin-bottom: 60px;
 }
 
 body {
