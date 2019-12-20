@@ -1,10 +1,20 @@
 # porfolio-scd-homework2
-This is a repository for the NU Coding Bootcamp Homework 2
+This is a repository for the NU Coding Bootcamp Homework 2, responsive portfolio.
 
 
 ## Purpose
 
 This is a GitHub repository for my second developer portfolio. Introduces a short bio, developer projects and contact information. This second porfolio uses Bootstrap for responsive design.
+
+
+## Screenshot of Completed Application
+
+![profile screenshot](./assets/images/profilescreenshot.JPG)
+
+
+## GitHub Pages Link
+
+https://gideonrynn.github.io/portfolio-gideonrynn-array/
 
 
 ## Installation

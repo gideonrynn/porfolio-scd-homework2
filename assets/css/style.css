@@ -1,5 +1,13 @@
+html {
+    position: relative;
+}
+
 .container {
     display: flexbox
+}
+
+body {
+    margin-bottom: 60px;
 }
 
 a, a:visited {
