@@ -1,11 +1,5 @@
-
 .container {
-    display: flex;
-    margin-bottom: 60px;
-}
-
-body {
-    margin-bottom: 60px;
+    display: flexbox
 }
 
 a, a:visited {
