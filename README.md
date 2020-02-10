@@ -52,6 +52,9 @@ https://www.callcentrehelper.com/resource-planning-need-to-know-145208.htm
 bestdayout.jpg
 https://www.istockphoto.com/illustrations/family-fun
 
+relaxed.jpg
+http://www.lionessesofafrica.com/blog/2017/10/13/own-your-attitude
+
 comingsoon.jpg
 https://www.sbswpodcast.com/coming-soon-1/
 
