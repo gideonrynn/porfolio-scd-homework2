@@ -27,13 +27,14 @@ a:hover {
 
 .card {
     opacity: .8;
-    
+    margin-bottom: 30px;
 }
 
 .card-img-overlay {
     border-width: 15px;
     border-color: #195DA3;
     border-style: solid;
+    
 }
 
 .card:hover {
@@ -43,6 +44,11 @@ a:hover {
 .card-text {
     color:#ffffff;
     background-color: #195DA3;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+   
 }
 
 
@@ -63,6 +69,10 @@ h1 {
 }
 
 /* .card-content {
-    position: absolute; 
+    margin: 0;
 } */
 
+.portfolio-link {
+    color: whitesmoke;
+
+}
