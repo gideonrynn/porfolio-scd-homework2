@@ -27,6 +27,13 @@ a:hover {
 
 .card {
     opacity: .8;
+    
+}
+
+.card-img-overlay {
+    border-width: 15px;
+    border-color: #195DA3;
+    border-style: solid;
 }
 
 .card:hover {
@@ -54,4 +61,8 @@ h1 {
     height: 60px;
     margin-top: auto;
 }
+
+/* .card-content {
+    position: absolute; 
+} */
 
