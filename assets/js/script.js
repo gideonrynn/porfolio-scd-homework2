@@ -44,7 +44,9 @@ $(function () {
                 targetRow = projectOther;
 
             } else {
+
                 targetRow = projectSoon;
+                
             }
 
             //create new column

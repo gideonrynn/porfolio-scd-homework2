@@ -14,7 +14,7 @@ const projects = [
         title: "Fulcrum Employee CMS",
         screenshot: "assets/images/fulcrumapp.JPG",
         image_alt: "Fulcrum App Image",
-        app_link: "",
+        app_link: "https://github.com/gideonrynn/fulcrum-employee-tracker-cms-homework12",
         github_link: "https://github.com/gideonrynn/fulcrum-employee-tracker-cms-homework12",
         stretched_link: "https://github.com/gideonrynn/fulcrum-employee-tracker-cms-homework12"
         
@@ -91,7 +91,7 @@ const projects = [
         title: "TeamPacR Profile Generator",
         screenshot: "assets/images/teampacrimg.JPG",
         image_alt: "TeamPacR Image",
-        app_link: "",
+        app_link: "https://github.com/gideonrynn/teampacr-profile-generator-hw7",
         github_link: "https://github.com/gideonrynn/teampacr-profile-generator-hw7",
         stretched_link: "https://github.com/gideonrynn/teampacr-profile-generator-hw7"
         
@@ -102,7 +102,7 @@ const projects = [
         title: "Team Sprite Site Generator",
         screenshot: "assets/images/teamsprite.JPG",
         image_alt: "TeamSprite Image",
-        app_link: "",
+        app_link: "https://github.com/gideonrynn/teamsprite-site-generator-hw10",
         github_link: "https://github.com/gideonrynn/teamsprite-site-generator-hw10",
         stretched_link: "https://github.com/gideonrynn/teamsprite-site-generator-hw10"
         
